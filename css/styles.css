@@ -3,4 +3,9 @@ body{
 }
 main{
 margin:15px auto;
+background-color:#ccc;
 }
+.text{
+    color: green;
+}
+
